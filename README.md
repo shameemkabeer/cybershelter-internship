@@ -2,7 +2,6 @@
 
 **Intern:** Mohamed Shameem PA
 **Role:** Associate – Information Security (Intern)
-**Duration:** Nov 2026 – Feb 2027
 
 | Week | Status |
 |---|---|
