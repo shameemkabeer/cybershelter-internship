@@ -5,6 +5,6 @@
 
 | Week | Status |
 |---|---|
-| [Week 1](week-1/) | In progress |
+| [Week 1](week-1/) | Completed |
 
 All work is done in a personal lab (VirtualBox + Kali Linux) against authorised practice targets only. No company or client data is stored in this repository.
