@@ -29,5 +29,6 @@
 | Day | Topic |
 |---|---|
 | [Day 8](week-2/day-8/) | OSI & TCP/IP Models — report, handwritten notes & encapsulation animation |
+| [Day 9](week-2/day-9/) | IP Addressing & Subnetting |
 
 All work is done in a personal lab (VirtualBox + Kali Linux) against authorised practice targets only. No company or client data is stored in this repository.
